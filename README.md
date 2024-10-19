@@ -15,10 +15,8 @@ Le script SQL pour créer la base de données et les tables : `create_tables.sql
 
 Le script SQL pour insérer les données de test : `insert_data.sql`.
 les données sont issu de  :
-- focaccia.xlsx
-- ingredient.xlsx
-- marque.xlsx
-- boisson.xlsx
+des fichiers 
+
 ##### MySql_demo
 
 Le fichier de sauvegarde de la base de données : `backup_tifosi.sql`.
